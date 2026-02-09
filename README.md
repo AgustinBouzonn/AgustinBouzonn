@@ -86,7 +86,33 @@ Soy un desarrollador especializado en **Inteligencia Artificial** y **automatiza
 ---
 
 ### 🔌 [auditoria-plugin](https://github.com/AgustinBouzonn/auditoria-plugin)
-> **Plugin de automatización** - Herramientas para auditoría y análisis
+> **Plugin de automatización** - Transcripción en tiempo real con IA para call centers
+
+- 🎤 Captura dual de audio (micrófono + sistema)
+- 🧠 Transcripción con Whisper API
+- 💬 Recomendaciones con GPT-4o
+- 🚀 100% Chrome Extension, sin servidor
+
+---
+
+## 🔥 Foco Actual
+
+### 📱 What I'm Working On
+- 🎸 Mejorando **AcordesAI** con nuevas features
+- 🤖 Construyendo agentes de IA autónomos
+- ⚡ Automatizando flujos de trabajo con LangChain
+
+### 📚 What I'm Learning
+- 🔬 RAG (Retrieval Augmented Generation)
+- 🧠 Agentes autónomos con LangGraph
+- 📊 Fine-tuning de modelos de lenguaje
+- 🎨 UI/UX design principles
+
+### 🎯 2026 Goals
+- [ ] Lanzar 2 nuevos proyectos con IA
+- [ ] Contribuir a 5 proyectos open source
+- [ ] Escribir 10 artículos técnicos
+- [ ] Dar una charla sobre IA en un evento
 
 ---
 

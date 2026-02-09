@@ -12,6 +12,35 @@
 
 ---
 
+## 🤖 Disclaimer Importante (LEER ANTES DE JUZGAR)
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ⚠️ ESTE README FUE ESCRITO CON AYUDA DE IA ⚠️            ║
+║                                                              ║
+║   Mi trabajo: Saber qué pedirle, cómo pedirlo, y            ║
+║   revisar que no diga cosas locas.                         ║
+║                                                              ║
+║   10% Yo (dirección, corrección, café ☕)                    ║
+║   90% IA (generación de contenido, formato, emoji)          ║
+║                                                              ║
+║   ¿El resultado? Un README que se ve profesional           ║
+║   mientras yo me tomo otro café.                           ║
+║                                                              ║
+║   ¿Moral de la historia?                                   ║
+║   Aprende a usar IA o te va a pasar lo que a               ║
+║   los que no sabían usar Internet en los 90s.              ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
 Soy un desarrollador especializado en **Inteligencia Artificial** y **automatización de procesos**, apasionado por crear tecnología que hace la vida de las personas más fácil. Actualmente trabajando en **[LinkSolution](https://linksolution.com.ar)**, donde combino IA generativa con arquitecturas escalables para resolver problemas reales del mundo real.
 
 ---
@@ -27,7 +56,8 @@ const agustinBouzon = {
     "🔧 Full Stack: React, TypeScript, Node.js",
     "📊 Análisis de Datos: Insights y Visualización"
   ],
-  currentFocus: "Construyendo el futuro de la IA en Argentina 🇦🇷"
+  currentFocus: "Construyendo el futuro de la IA en Argentina 🇦🇷",
+  superpower: "Hacer que la IA haga el trabajo aburrido mientras yo hago el creativo"
 };
 ```
 
@@ -209,7 +239,7 @@ Learning Path:
 ## 📈 Contribuciones Open Source
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AgustinBouzonn&theme=tokyo_night&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AgustinBouzonn&theme=tokyo_night&no-frame=true&no_bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -230,6 +260,32 @@ while (learning) {
 
 <i>"Transformando código en soluciones, ideas en productos"</i>
 
+<i>"Un buen developer escribe código, un gran developer hace que la IA escriba código por él"</i>
+
+</div>
+
+---
+
+## 🎓 Mi Filosofía sobre IA
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│     "No es que la IA vaya a reemplazarnos,                  │
+│      es que los que sepan usar IA van a                    │
+│      reemplazar a los que no."                              │
+│                                                             │
+│     Mi rol:                                                │
+│     ✓ Saber qué pedirle                                    │
+│     ✓ Revisar que no diga burradas                         │
+│     ✓ Añadir personalidad y contexto                       │
+│     ✓ Tomarme el crédito porque la idea fue mía 😎          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
 </div>
 
 ---
@@ -240,14 +296,17 @@ while (learning) {
 
 <div align="center">
   <h3>⭐ Si te gusta mi trabajo, considerá dejarme una star ⭐</h3>
+  <p>(O si no, también está bien. La IA no se va a enojar... creo)</p>
 </div>
 
 ---
 
 <div align="center">
-  <sub>Hecho con ❤️ y ☕ por <a href="https://github.com/AgustinBouzonn">Agustín Bouzon</a></sub>
+  <sub>Hecho con ❤️ y ☕ (y mucha ayuda de IA) por <a href="https://github.com/AgustinBouzonn">Agustín Bouzon</a></sub>
 </div>
 
 <div align="center">
   <i>"La mejor manera de predecir el futuro es creándolo"</i> - Peter Drucker
+  <br><br>
+  <i>"O usar IA y pedirle que prediga el futuro por ti"</i> - Yo, probablmente
 </div>

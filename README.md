@@ -87,7 +87,7 @@ PWA que genera cifrados, acordes y letras de cualquier canción con **Google Gem
 
 - 📚 **[Awesome IA Argentina](https://github.com/AgustinBouzonn/Awesome-IA)**: lista curada de carreras, datasets y comunidades de IA en Argentina.
 - 🖱️ **[AntiBloqueo](https://github.com/AgustinBouzonn/mouse-antibloqueo)**: evita que Windows bloquee la sesión por inactividad, con un solo script de PowerShell.
-- ⭐ **[GitHub Stars](https://github.com/AgustinBouzonn/github-stars)**: informe categorizado de repos destacados, actualizado automáticamente.
+- ⭐ **[GitHub Stars](https://github.com/AgustinBouzonn/github-stars)**: catálogo categorizado de más de 750 repos destacados en 21 categorías.
 
 ## Ahora mismo
 

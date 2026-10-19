@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Agustín Bouzon
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN17Df3kxkMcsA/giphy.gif" width="400" alt="Coding"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding"/>
 </div>
 
 ## 🚀 AI Software Developer | IT Analyst L3
@@ -19,20 +19,20 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   ⚠️ ESTE README FUE ESCRITO CON AYUDA DE IA ⚠️            ║
+║   ⚠️ ESTE README FUE ESCRITO CON AYUDA DE IA ⚠️                ║
 ║                                                              ║
-║   Mi trabajo: Saber qué pedirle, cómo pedirlo, y            ║
-║   revisar que no diga cosas locas.                         ║
+║   Mi trabajo: Saber qué pedirle, cómo pedirlo, y             ║
+║   revisar que no diga cosas locas.                           ║
 ║                                                              ║
 ║   10% Yo (dirección, corrección, café ☕)                    ║
-║   90% IA (generación de contenido, formato, emoji)          ║
+║   90% IA (generación de contenido, formato, emoji)           ║
 ║                                                              ║
-║   ¿El resultado? Un README que se ve profesional           ║
-║   mientras yo me tomo otro café.                           ║
+║   ¿El resultado? Un README que se ve profesional             ║
+║   mientras yo me tomo otro café.                             ║
 ║                                                              ║
-║   ¿Moral de la historia?                                   ║
-║   Aprende a usar IA o te va a pasar lo que a               ║
-║   los que no sabían usar Internet en los 90s.              ║
+║   ¿Moral de la historia?                                     ║
+║   Aprende a usar IA o te va a pasar lo que a                 ║
+║   los que no sabían usar Internet en los 90s.                ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -114,7 +114,7 @@ const agustinBouzon = {
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/AgustinBouzonn/open-moba-term)
 [![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://github.com/AgustinBouzonn/open-moba-term)
-[![License](https://img.shields.io/github/license/AgustinBouzonn/open-moba-term?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)](https://github.com/AgustinBouzonn/open-moba-term/blob/main/LICENSE)
 ![Stars](https://img.shields.io/github/stars/AgustinBouzonn/open-moba-term?style=flat-square)
 ![Downloads](https://img.shields.io/github/downloads/AgustinBouzonn/open-moba-term/total?style=flat-square)
 
@@ -130,9 +130,9 @@ const agustinBouzon = {
 
 ### 📚 [Awesome IA Argentina](https://github.com/AgustinBouzonn/Awesome-IA)
 
-[![CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey?style=flat-square)](LICENSE)
+[![CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey?style=flat-square)](https://github.com/AgustinBouzonn/Awesome-IA/blob/main/LICENSE)
 ![Stars](https://img.shields.io/github/stars/AgustinBouzonn/Awesome-IA?style=flat-square)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square)](https://github.com/AgustinBouzonn/Awesome-IA#contribuir)
 
 > **Lista curada de recursos** - Educación, datasets y comunidad de IA en Argentina 🇦🇷
 
@@ -163,23 +163,19 @@ const agustinBouzon = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgustinBouzonn&show_icons=true&theme=tokyo_night&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinBouzonn&layout=compact&langs_count=8&theme=tokyo_night&hide_border=true&bg_color=1a1a2e&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgustinBouzonn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinBouzonn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgustinBouzonn&theme=tokyo_night&hide_border=true&background=1a1a2e&stroke=7aa2f7&ring=7aa2f7&fire=7aa2f7&currStreakNum=c0caf5&currStreakLabel=c0caf5&sideNums=c0caf5&sideLabels=c0caf5&dates=c0caf5" alt="Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AgustinBouzonn&theme=tokyo-night&bg_color=1a1a2e&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://streak-stats.demolab.com/?user=AgustinBouzonn&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=7aa2f7&ring=7aa2f7&fire=7aa2f7&currStreakNum=c0caf5&currStreakLabel=c0caf5&sideNums=c0caf5&sideLabels=c0caf5&dates=c0caf5" alt="Streak Stats"/>
 </div>
 
 ---
 
 ## 🔥 Foco Actual
 
-### 📱 What I'm Working On
+### 📱 En qué estoy trabajando
 ```yaml
 Current Projects:
   - 🎸 Improving AcordesAI with new features
@@ -188,7 +184,7 @@ Current Projects:
   - 🎨 Creating beautiful UI/UX experiences
 ```
 
-### 📚 What I'm Learning
+### 📚 Qué estoy aprendiendo
 ```yaml
 Learning Path:
   - 🔬 RAG (Retrieval Augmented Generation)
@@ -204,7 +200,7 @@ Learning Path:
 - [ ] 📝 Escribir 10 artículos técnicos
 - [ ] 🎤 Dar una charla sobre IA en un evento
 - [ ] 🏆 Alcanzar 100 stars en mis proyectos
-- [ ] 👨‍🏨 Mentorar a 5 desarrolladores junior
+- [ ] 👨‍🏫 Mentorar a 5 desarrolladores junior
 
 ---
 
@@ -228,18 +224,9 @@ Learning Path:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-agustinbouzon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/agustinbouzon)
-[![Website](https://img.shields.io/badge/Website-bthings.space-1a1a2e?style=for-the-badge&logo=website&logoColor=white)](https://bthings.space)
 [![Email](https://img.shields.io/badge/Email-abouzon@linksolution.com.ar-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abouzon@linksolution.com.ar)
 [![Telegram](https://img.shields.io/badge/Telegram-@AgustinBouzon-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AgustinBouzon)
 
-</div>
-
----
-
-## 📈 Contribuciones Open Source
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AgustinBouzonn&theme=tokyo_night&no-frame=true&no_bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -274,13 +261,13 @@ while (learning) {
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
 │     "No es que la IA vaya a reemplazarnos,                  │
-│      es que los que sepan usar IA van a                    │
+│      es que los que sepan usar IA van a                     │
 │      reemplazar a los que no."                              │
 │                                                             │
-│     Mi rol:                                                │
-│     ✓ Saber qué pedirle                                    │
-│     ✓ Revisar que no diga burradas                         │
-│     ✓ Añadir personalidad y contexto                       │
+│     Mi rol:                                                 │
+│     ✓ Saber qué pedirle                                     │
+│     ✓ Revisar que no diga burradas                          │
+│     ✓ Añadir personalidad y contexto                        │
 │     ✓ Tomarme el crédito porque la idea fue mía 😎          │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
@@ -308,5 +295,5 @@ while (learning) {
 <div align="center">
   <i>"La mejor manera de predecir el futuro es creándolo"</i> - Peter Drucker
   <br><br>
-  <i>"O usar IA y pedirle que prediga el futuro por ti"</i> - Yo, probablmente
+  <i>"O usar IA y pedirle que prediga el futuro por ti"</i> - Yo, probablemente
 </div>

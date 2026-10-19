@@ -1,299 +1,136 @@
-# 👋 ¡Hola! Soy Agustín Bouzon
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding"/>
-</div>
-
-## 🚀 AI Software Developer | IT Analyst L3
-
-<div align="center">
-  <i>Transformando ideas complejas en soluciones elegantes con Inteligencia Artificial</i>
-</div>
-
----
-
-## 🤖 Disclaimer Importante (LEER ANTES DE JUZGAR)
-
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   ⚠️ ESTE README FUE ESCRITO CON AYUDA DE IA ⚠️                ║
-║                                                              ║
-║   Mi trabajo: Saber qué pedirle, cómo pedirlo, y             ║
-║   revisar que no diga cosas locas.                           ║
-║                                                              ║
-║   10% Yo (dirección, corrección, café ☕)                    ║
-║   90% IA (generación de contenido, formato, emoji)           ║
-║                                                              ║
-║   ¿El resultado? Un README que se ve profesional             ║
-║   mientras yo me tomo otro café.                             ║
-║                                                              ║
-║   ¿Moral de la historia?                                     ║
-║   Aprende a usar IA o te va a pasar lo que a                 ║
-║   los que no sabían usar Internet en los 90s.                ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=170&section=header&text=Agust%C3%ADn%20Bouzon&fontSize=44&fontColor=c0caf5&fontAlignY=36&desc=AI%20Software%20Developer%20%C2%B7%20IT%20Analyst%20L3&descAlignY=58&descSize=16" width="100%" alt="Agustín Bouzon · AI Software Developer · IT Analyst L3"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=560&lines=LLMs+%C2%B7+Agentes+aut%C3%B3nomos+%C2%B7+RAG;Automatizaci%C3%B3n+de+procesos+e+integraciones;Full+stack+con+TypeScript%2C+React+y+Node.js;Machine+Learning+cl%C3%A1sico+y+cu%C3%A1ntico" alt="LLMs, agentes autónomos, RAG, automatización, full stack y machine learning"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/agustinbouzon)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abouzon@linksolution.com.ar)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/AgustinBouzon)
 
 </div>
 
----
+## Sobre mí
 
-Soy un desarrollador especializado en **Inteligencia Artificial** y **automatización de procesos**, apasionado por crear tecnología que hace la vida de las personas más fácil. Actualmente trabajando en **[LinkSolution](https://linksolution.com.ar)**, donde combino IA generativa con arquitecturas escalables para resolver problemas reales del mundo real.
+Desarrollo software con **Inteligencia Artificial** y **automatización de procesos**. Trabajo en **[LinkSolution](https://linksolution.com.ar)**, donde combino IA generativa con arquitecturas escalables para resolver problemas reales de operación y soporte.
 
----
+- 🤖 **IA aplicada:** LLMs, agentes autónomos y RAG
+- ⚡ **Automatización:** bots, integraciones y workflows
+- 🧩 **Full stack:** TypeScript, React y Node.js
+- 📊 **Datos y ML:** modelos predictivos, análisis y visualización
 
-## 🎯 Qué hago
+## Stack
 
-```typescript
-const agustinBouzon = {
-  role: "AI Software Developer",
-  passions: [
-    "🤖 Desarrollo de IA: LLMs, Agentes Autónomos, RAG",
-    "⚡ Automatización: Bots, Integraciones, Workflows",
-    "🔧 Full Stack: React, TypeScript, Node.js",
-    "📊 Análisis de Datos: Insights y Visualización"
-  ],
-  currentFocus: "Construyendo el futuro de la IA en Argentina 🇦🇷",
-  superpower: "Hacer que la IA haga el trabajo aburrido mientras yo hago el creativo"
-};
-```
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=ts,js,py,bash,powershell,react,nextjs,tailwind,electron,nodejs,docker,git,githubactions,linux,vscode&perline=8&theme=dark" alt="TypeScript, JavaScript, Python, Bash, PowerShell, React, Next.js, Tailwind, Electron, Node.js, Docker, Git, GitHub Actions, Linux, VS Code"/>
 
-## 🛠️ Tech Stack
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3E?style=flat-square&logo=langchain&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logo=xgboost&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-7B3FE4?style=flat-square)
 
-### 💻 Lenguajes
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+</div>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+## Proyectos destacados
 
-### 🧠 Backend & IA
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3E?style=for-the-badge&logo=langchain&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### ⚽ [Modelo Predictivo Mundial 2026](https://github.com/AgustinBouzonn/modelo-predict-wc26)
 
----
+Ensemble **Elo + Poisson + XGBoost** que predice partidos del Mundial, comparado contra un clasificador cuántico de 4 qubits. 64% de accuracy out-of-sample, sin fuga de datos.
 
-## 📦 Proyectos Destacados
+`Python` `XGBoost` `PennyLane` `Streamlit`
 
-### 🎸 [AcordesAI](https://github.com/AgustinBouzonn/open-AcordesAI)
+[Demo en vivo →](https://agustinbouzonn.github.io/modelo-predict-wc26/)
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/AgustinBouzonn/open-AcordesAI)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/AgustinBouzonn/open-AcordesAI)
-[![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)](https://github.com/AgustinBouzonn/open-AcordesAI)
-[![PWA](https://img.shields.io/badge/PWA-Enabled-5A0FC8?style=flat-square&logo=pwa&logoColor=white)](https://github.com/AgustinBouzonn/open-AcordesAI)
+</td>
+<td width="50%" valign="top">
 
-> **PWA musical con IA** - Genera cifrados, acordes y letras de cualquier canción con Google Gemini
+### 📡 [SignalGit](https://github.com/AgustinBouzonn/signal-git)
 
-**🌟 Features:**
-- 🎼 Búsqueda inteligente con detección automática de metadatos
-- 🎸 Multi-instrumento (Guitarra, Ukelele, Piano)
-- ⚡ Caché local y herramientas de práctica
-- 🚀 React 19 + TypeScript + Tailwind CSS
+Radar de repositorios de GitHub que crecen de verdad, antes de volverse mainstream. Mide estrellas ganadas por día. Costo cero: sin base de datos ni servidor.
 
----
+`JavaScript` `GitHub Actions` `GitHub Pages`
+
+[Demo en vivo →](https://agustinbouzonn.github.io/signal-git/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🖥️ [OpenMoba Term](https://github.com/AgustinBouzonn/open-moba-term)
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/AgustinBouzonn/open-moba-term)
-[![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://github.com/AgustinBouzonn/open-moba-term)
-[![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)](https://github.com/AgustinBouzonn/open-moba-term/blob/main/LICENSE)
-![Stars](https://img.shields.io/github/stars/AgustinBouzonn/open-moba-term?style=flat-square)
-![Downloads](https://img.shields.io/github/downloads/AgustinBouzonn/open-moba-term/total?style=flat-square)
+Gestor de sesiones multi-protocolo: **SSH, SFTP, RDP y VNC** en una sola app. Credenciales en el keychain nativo, pestañas y worker threads para los protocolos pesados.
 
-> **Gestor multi-protocolo** - SSH, SFTP, RDP y VNC en una sola app
+`TypeScript` `Electron` `React` `Zustand`
 
-**🌟 Features:**
-- 🔐 Gestión segura de credenciales con keychain nativo
-- 📑 Interfaz con pestañas para múltiples conexiones
-- ⚡ Worker threads para rendimiento óptimo
-- 🎨 UI moderna con Electron + React + Zustand
+</td>
+<td width="50%" valign="top">
 
----
+### 🎸 [AcordesAI](https://github.com/AgustinBouzonn/open-AcordesAI)
 
-### 📚 [Awesome IA Argentina](https://github.com/AgustinBouzonn/Awesome-IA)
+PWA que genera cifrados, acordes y letras de cualquier canción con **Google Gemini**. Guitarra, ukelele y piano, con caché local y herramientas de práctica.
 
-[![CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey?style=flat-square)](https://github.com/AgustinBouzonn/Awesome-IA/blob/main/LICENSE)
-![Stars](https://img.shields.io/github/stars/AgustinBouzonn/Awesome-IA?style=flat-square)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square)](https://github.com/AgustinBouzonn/Awesome-IA#contribuir)
+`TypeScript` `React 19` `Gemini` `PWA`
 
-> **Lista curada de recursos** - Educación, datasets y comunidad de IA en Argentina 🇦🇷
+</td>
+</tr>
+</table>
 
-**🌟 Features:**
-- 🎓 Carreras, cursos y libros sobre IA
-- 🇦🇷 Datasets argentinos y recursos en español
-- 🤝 Comunidades y eventos (PyConAr, Nerdear.la)
-- 📖 Contribuciones de la comunidad welcome
+**Más proyectos**
 
----
+- 📚 **[Awesome IA Argentina](https://github.com/AgustinBouzonn/Awesome-IA)**: lista curada de carreras, datasets y comunidades de IA en Argentina.
+- 🖱️ **[AntiBloqueo](https://github.com/AgustinBouzonn/mouse-antibloqueo)**: evita que Windows bloquee la sesión por inactividad, con un solo script de PowerShell.
+- ⭐ **[GitHub Stars](https://github.com/AgustinBouzonn/github-stars)**: informe categorizado de repos destacados, actualizado automáticamente.
 
-### 🔌 [auditoria-plugin](https://github.com/AgustinBouzonn/auditoria-plugin)
+## Ahora mismo
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/AgustinBouzonn/auditoria-plugin)
-[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-green?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/AgustinBouzonn/auditoria-plugin)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://github.com/AgustinBouzonn/auditoria-plugin)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> **Transcripción en tiempo real** - Plugin para call centers con IA
+**🔭 Trabajando en**
 
-**🌟 Features:**
-- 🎤 Captura dual de audio (micrófono + sistema)
-- 🧠 Transcripción con Whisper API
-- 💬 Recomendaciones con GPT-4o
-- 🚀 100% Chrome Extension, sin servidor
+- Nuevas features para AcordesAI
+- ML cuántico frente a modelos clásicos
+- Mejoras al ranking de SignalGit
+- Agentes de IA autónomos
 
----
+</td>
+<td width="50%" valign="top">
 
-## 📊 GitHub Stats
+**🌱 Aprendiendo**
+
+- RAG en producción
+- Agentes con LangGraph
+- Fine-tuning de LLMs
+- Sistemas de ML listos para producción
+
+</td>
+</tr>
+</table>
+
+## Estadísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgustinBouzonn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinBouzonn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5"/>
+
+<img height="165" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=AgustinBouzonn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5"/>
+<img height="165" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinBouzonn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5"/>
+
+<img alt="Racha de contribuciones" src="https://streak-stats.demolab.com/?user=AgustinBouzonn&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=7aa2f7&fire=7aa2f7&currStreakNum=c0caf5&currStreakLabel=7aa2f7&sideNums=c0caf5&sideLabels=7aa2f7&dates=565f89"/>
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AgustinBouzonn&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=7aa2f7&ring=7aa2f7&fire=7aa2f7&currStreakNum=c0caf5&currStreakLabel=c0caf5&sideNums=c0caf5&sideLabels=c0caf5&dates=c0caf5" alt="Streak Stats"/>
-</div>
 
----
+<sub>Hecho con ☕ y con ayuda de IA</sub>
 
-## 🔥 Foco Actual
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" width="100%" alt=""/>
 
-### 📱 En qué estoy trabajando
-```yaml
-Current Projects:
-  - 🎸 Improving AcordesAI with new features
-  - 🤖 Building autonomous AI agents
-  - ⚡ Automating workflows with LangChain
-  - 🎨 Creating beautiful UI/UX experiences
-```
-
-### 📚 Qué estoy aprendiendo
-```yaml
-Learning Path:
-  - 🔬 RAG (Retrieval Augmented Generation)
-  - 🧠 Autonomous agents with LangGraph
-  - 📊 LLM fine-tuning techniques
-  - 🎨 Advanced UI/UX design principles
-  - 🚀 Production-ready ML systems
-```
-
-### 🎯 2026 Goals
-- [ ] 🚀 Lanzar 2 nuevos proyectos con IA
-- [ ] 🤝 Contribuir a 5 proyectos open source
-- [ ] 📝 Escribir 10 artículos técnicos
-- [ ] 🎤 Dar una charla sobre IA en un evento
-- [ ] 🏆 Alcanzar 100 stars en mis proyectos
-- [ ] 👨‍🏫 Mentorar a 5 desarrolladores junior
-
----
-
-## 🏆 Logros & Certificaciones
-
-<div align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="50" alt="Pair Extraordinaire x3"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="50" alt="Pull Shark x2"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="50" alt="YOLO"/>
-</div>
-
-**GitHub Achievements:**
-- 🎯 **Pair Extraordinaire x3** - Colaboración excepcional
-- 🦈 **Pull Shark x2** - PR master
-- 🎲 **YOLO** - Code confidence
-
----
-
-## 💬 Conectemos
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-agustinbouzon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/agustinbouzon)
-[![Email](https://img.shields.io/badge/Email-abouzon@linksolution.com.ar-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abouzon@linksolution.com.ar)
-[![Telegram](https://img.shields.io/badge/Telegram-@AgustinBouzon-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AgustinBouzon)
-
-</div>
-
----
-
-## 💡 Filosofía
-
-<div align="center">
-
-```javascript
-while (learning) {
-  improve();
-  share();
-  repeat();
-}
-```
-
-<i>"El código es poesía, la IA es el pincel y el mundo es mi canvas"</i>
-
-<i>"Transformando código en soluciones, ideas en productos"</i>
-
-<i>"Un buen developer escribe código, un gran developer hace que la IA escriba código por él"</i>
-
-</div>
-
----
-
-## 🎓 Mi Filosofía sobre IA
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│     "No es que la IA vaya a reemplazarnos,                  │
-│      es que los que sepan usar IA van a                     │
-│      reemplazar a los que no."                              │
-│                                                             │
-│     Mi rol:                                                 │
-│     ✓ Saber qué pedirle                                     │
-│     ✓ Revisar que no diga burradas                          │
-│     ✓ Añadir personalidad y contexto                        │
-│     ✓ Tomarme el crédito porque la idea fue mía 😎          │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AgustinBouzonn&style=for-the-badge&color=7aa2f7&label=VISITAS" alt="Profile Views"/>
-</div>
-
-<div align="center">
-  <h3>⭐ Si te gusta mi trabajo, considerá dejarme una star ⭐</h3>
-  <p>(O si no, también está bien. La IA no se va a enojar... creo)</p>
-</div>
-
----
-
-<div align="center">
-  <sub>Hecho con ❤️ y ☕ (y mucha ayuda de IA) por <a href="https://github.com/AgustinBouzonn">Agustín Bouzon</a></sub>
-</div>
-
-<div align="center">
-  <i>"La mejor manera de predecir el futuro es creándolo"</i> - Peter Drucker
-  <br><br>
-  <i>"O usar IA y pedirle que prediga el futuro por ti"</i> - Yo, probablemente
 </div>

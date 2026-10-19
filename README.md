@@ -42,9 +42,9 @@ Desarrollo software con **Inteligencia Artificial** y **automatización de proce
 
 ### ⚽ [Modelo Predictivo Mundial 2026](https://github.com/AgustinBouzonn/modelo-predict-wc26)
 
-Ensemble **Elo + Poisson + XGBoost** que predice partidos del Mundial, comparado contra un clasificador cuántico de 4 qubits. 64% de accuracy out-of-sample, sin fuga de datos.
+Ensemble **Elo + Poisson (Dixon-Coles)** que predice partidos del Mundial, comparado contra un clasificador cuántico de 4 qubits. 62% de accuracy sobre 452 partidos de los últimos 12 meses, sin fuga de datos.
 
-`Python` `XGBoost` `PennyLane` `Streamlit`
+`Python` `Dixon-Coles` `PennyLane` `Streamlit`
 
 [Demo en vivo →](https://agustinbouzonn.github.io/modelo-predict-wc26/)
 
